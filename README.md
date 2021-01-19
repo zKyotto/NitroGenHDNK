@@ -13,6 +13,6 @@
 
 4: Y disfrutamos cuando se termine de generar todo saldra en el archivo `codes.txt` :)
 
-**Recordar**
+`Recordar`
 
 **Estos codes no son checked por lo que la mayoria no funcionaran 20 likes a este repositorio y traigo un checked :)**
